@@ -3,3 +3,5 @@ Capstone #3
 For this Capstone I was asked to make a presentation to display trends and performances across all products sold from the Northeast Region of Emporium.
 For this presentation I had to clean, shape and model the data to accurately analyze the information and give recommendations.
 To complete these task, I utilized softwares like Microsoft Excel to clean and organize data while using Power BI to model and create graphs.
+
+https://drive.google.com/file/d/1vLrleVSroyG4ihTRux3CU_Pl-94Px2T-/view?usp=drive_link
